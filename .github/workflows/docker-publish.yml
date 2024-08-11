@@ -36,4 +36,4 @@ jobs:
         file: ./Dockerfile
         push: true
         tags: |
-          type=raw,value=heritiana19/nom_du_repository:${{ github.sha }
+          type=raw,value=heritiana19/https://github.com/Heritiana-william/docker.git:${{ github.sha }
